@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Obsługuje **Klientów**","Przyjmuje **Zlecenia**"];
+const statusMessages = ["Obsługuje 𝗞𝗹𝗶𝗲𝗻𝘁𝗼𝘄","Przyjmuje 𝗭𝗹𝗲𝗰𝗲𝗻𝗶𝗮"];
 
 
 let currentIndex = 0;
